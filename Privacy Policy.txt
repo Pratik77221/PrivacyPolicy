@@ -1,0 +1,83 @@
+1. Introduction
+Welcome to VR Meditation ("App"). This Privacy Policy explains how Visioment Studios ("we", "us", or "our") collects, uses, shares, and safeguards your personal information when you use our App on Meta’s platform and other supported devices. By using VR Meditation, you consent to the collection and use of your data as described in this Policy.
+
+2. Information We Collect
+
+Personal Information:
+We may collect personal details you voluntarily provide when you register or interact with our App. This information may include your name, email address, and any other contact information needed to create an account or receive support.
+
+Usage Data:
+Our App automatically collects data regarding your interactions, which includes log files, device information (such as device type and operating system), IP address, and usage patterns. This data assists us in monitoring app performance and enhancing your experience.
+
+Location Data:
+With your explicit consent, we may collect location information to deliver and customize localized content and services within the App.
+
+Additional Information:
+Depending on the features you engage with, we might also collect data regarding your preferences and settings to tailor your meditation experience across our immersive environments.
+
+3. How We Use Your Information
+
+Providing and Enhancing Services:
+Your data enables us to deliver a personalized experience within VR Meditation—from immersive environments such as a serene mosque, a reflective church, to the tranquility of nature—and continually refine our App based on your interactions and feedback.
+
+Communication:
+We use your contact information to send you important updates, notifications, and account-related information. You may opt out of receiving promotional messages at any time.
+
+Analytics and Research:
+The information we collect is instrumental in understanding user engagement, performing statistical analyses, and improving the overall functionality and usability of the App.
+
+Legal and Compliance Purposes:
+We process your personal data as necessary to comply with applicable laws, enforce our terms, and protect the rights of our users and our business.
+
+4. Data Sharing and Disclosure
+
+Third-Party Service Providers:
+We may share your information with trusted third-party vendors who assist in our operations (such as hosting, analytics, and customer service). These partners are contractually obligated to manage your information securely and in alignment with this Privacy Policy.
+
+Legal Requirements:
+Your data may be disclosed if required by law or in response to valid legal requests from public authorities.
+
+Business Transfers:
+In the event of a merger, acquisition, or asset sale, your personal data may be included as part of the transferred assets. We will notify you of any such change in control or use of your information.
+
+5. Data Security
+
+We implement a variety of technical and organizational measures—including encryption, access controls, and secure storage—to protect your personal information. However, please be aware that no method of electronic data transmission or storage is completely secure.
+
+6. Data Retention
+
+We retain your personal information only for as long as it is necessary to fulfill the purposes outlined in this Privacy Policy and to comply with applicable legal obligations. Once this data is no longer required, we will securely delete or anonymize it.
+
+7. Your Rights and Choices
+
+Access and Correction:
+You have the right to access and correct any personal information we hold about you. This can typically be done through your account settings or by contacting us directly.
+
+Consent Withdrawal:
+You may withdraw your consent for our data processing at any time; however, please note that this may limit your ability to use certain features of the App.
+
+Data Deletion:
+Under applicable laws, you may request that we delete your personal information. Please contact us to initiate this process.
+
+Opt-Out of Marketing Communications:
+You can unsubscribe from marketing communications by following the instructions provided in our emails or by contacting us directly.
+
+8. International Data Transfers
+
+If you access our App from outside of [Your Country], please note that your information may be transferred to and processed in [Your Country] or other jurisdictions where our servers are located. Such transfers are conducted in accordance with applicable data protection laws, and by using our App, you consent to these transfers.
+
+9. Compliance with Meta Store Guidelines
+
+We are committed to meeting Meta Store privacy and data protection guidelines by:
+
+Collecting only the data necessary for the App’s functionality.
+
+Implementing robust security measures to protect your data.
+
+Providing transparent notice about our data practices.
+
+Regularly reviewing and updating our policies to ensure ongoing compliance with platform requirements and legal standards.
+
+10. Changes to This Privacy Policy
+
+We reserve the right to modify this Privacy Policy at any time. Any changes will become effective immediately upon posting the updated Policy within the App and on our website. We encourage you to review this Policy periodically. Your continued use of VR Meditation signifies your acceptance of any modifications.
